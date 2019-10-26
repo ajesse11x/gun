@@ -5,7 +5,7 @@
   "dependencies": {
     "gun": "file:../..",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^16.10.2"
   },
   "devDependencies": {
     "express": "^4.15.2",
