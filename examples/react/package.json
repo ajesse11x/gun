@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "gun": "file:../..",
-    "react": "^15.5.4",
+    "react": "^16.10.2",
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
