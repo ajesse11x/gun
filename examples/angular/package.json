@@ -19,7 +19,7 @@
     "@angular/http": "^4.1.0",
     "@angular/platform-browser": "^4.1.0",
     "@angular/platform-browser-dynamic": "^4.1.0",
-    "@angular/router": "^4.1.0",
+    "@angular/router": "^8.2.11",
     "core-js": "^2.4.1",
     "express-http-proxy": "^1.0.1",
     "gun": "^0.7.4",
